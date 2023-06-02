@@ -1,0 +1,23 @@
+I am writing a tampermonkey script (.user.js) which is running on Chrome and Edge.
+The common practice of reloading the updated tampermonkey script is by refreshing the page.
+But I would like to implement this update behavior by clicking a button on the page.
+Please do following steps based on my problem:
+[1] Analyze the possibilities of implement this feature.
+[2] Provide several solutions and analyze it.
+[3] Choose the best solution and implement it.
+
+
+OK. Then let's consider another workaround.
+Since it is hard to implement the feature of reloading the updated tampermonkey script without refreshing the page, let's try the solution of click a button or run a command in console, to remove the original element with its bound functions, and then add the modified element with modified functions again.
+
+Then let's move forward through this solution path.
+Please do following steps:
+[1] List several related features and functions that we can use to implement this workaround.
+[2] Provide corresponding code snippets.
+[3] After finishing the above steps, please provide three questions which could dive deeper in enhancing the feature, and three questions which could move further on this task.
+
+Great! Answer following questions one by one:
+[1] How can we integrate this workaround into a Tampermonkey script?
+[2] How can we trigger this workaround using a button click or console command?
+[3] How can we test and debug this workaround to ensure it works as expected?
+
